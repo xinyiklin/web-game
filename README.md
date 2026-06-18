@@ -1,7 +1,7 @@
 # web-game
 ## Final Spring Project for High School Web Dev Class
 
-[![Product Name Screen Shot](screenshot.png)](https://example.com)
+![Game Screenshot](screenshot.png)
 
 A simple html game created using html/css, javascript. Users can select a character at the beginning and start their journey. Upon selection, user will enter the main menu.
 
@@ -9,9 +9,7 @@ A simple html game created using html/css, javascript. Users can select a charac
 
 This game only involves clicking events, all actions can be done via mouse input.
 
-## Accessing the Game:
-
-Game can be access directly [here](https://xinyilin.me/web-game)
+## Running Locally:
 
 ### Pre-requisite:
 
@@ -19,7 +17,7 @@ Git
 
 ### Download:
 
-For download, users can download the repository via Git on their local machines. Then user can open the index.html file in their browser to access the game locally.
+Clone the repository via Git to your local machine, then open the `index.html` file in your browser to play the game locally.
 
 ## Contribution:
 
